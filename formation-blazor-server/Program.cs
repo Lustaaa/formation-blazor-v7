@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using formation_blazor_server.Data;
+using formation_blazor_server.Data; 
 
 var builder = WebApplication.CreateBuilder(args);
 
